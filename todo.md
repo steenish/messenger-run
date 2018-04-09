@@ -1,12 +1,12 @@
-### To-do
+﻿### To-do
 
 #### Prelim
 - [x] Lära sig Unity
 - [x] Dela upp arbete
 
 #### Steg 1
-- [ ] Rita en svart rektangel med skateboard som spelarkaraktär L
-- [ ] Rita en vit bakgrund L
+- [x] Rita en svart rektangel(katt) med skateboard som spelarkaraktär L
+- [ ] Rita en vit bakgrund L **Är detta nödvändigt? Det går väl att ha en enfärgad bakgrund utan att rita en sprite?**
 - [ ] Lägg in i Unity S
 
 #### Steg 2
@@ -14,7 +14,7 @@
 - [ ] Gör så att kameran följer spelaren S
 
 #### Steg 3
-- [ ] Rita marksprite L
+- [x] Rita marksprite L
 - [ ] Lägg in i Unity S
 - [ ] Få spelaren att stå på den S
 
@@ -22,7 +22,7 @@
 - [ ] Skapa hopp L
 
 #### Steg 5
-- [ ] Rita berg (hinder som ska hoppas över) L
+- [x] Rita berg[fire post] (hinder som ska hoppas över) L
 - [ ] Lägg in dem i Unity för att designa banan (se till att spelaren kan krocka med hindret) S
 
 #### Steg 6
