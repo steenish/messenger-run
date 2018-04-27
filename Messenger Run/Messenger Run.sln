@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messenger Run", "Messenger Run.csproj", "{51BC4AB9-1C3B-652B-5F84-7690C683473A}"
 EndProject
 Global
